@@ -1,3 +1,6 @@
+Live deployed version: https://happy-mccarthy-f30d09.netlify.app/
+Original tutorial by JavaScript Mastery: https://youtu.be/IaJqMcOMuDM
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
